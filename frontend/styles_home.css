@@ -64,3 +64,16 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+
+.container2 {
+  overflow:hidden /* Clear float */
+  
+}
+
+.right-image {
+  float: right; /* Float the image to the right */
+  margin-left: 20px;
+  margin-right: 0px;
+  width: 600px;
+  height: 600px; /* Optional: Add some margin for spacing */
+}

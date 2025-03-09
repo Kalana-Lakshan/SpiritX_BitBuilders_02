@@ -77,3 +77,38 @@ img {vertical-align: middle;}
   width: 600px;
   height: 600px; /* Optional: Add some margin for spacing */
 }
+
+.section1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.p1{
+  color: white;
+  font-size: 28px;
+}
+
+.p2{
+  color: white;
+  font-size: 18px;
+}
+
+.p3{
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.p4{
+  color: white;
+  line-height: 35px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

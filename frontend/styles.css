@@ -2,11 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-}
+    background-image: linear-gradient(to right,#4B3F6E, #1B1368,#140D38,#1B0521,#450E36,#611346);
 
 header {
-    background: #35424a;
+    background: #100A29;
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
@@ -32,12 +31,12 @@ main {
 }
 
 h2 {
-    color: #35424a;
+    color: #ffffff;
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
+    background: #0F0A28;
     color: #ffffff;
 }
